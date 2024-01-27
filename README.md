@@ -3,11 +3,4 @@
 
 
 ## Preface
-This repository is the sample of web application using golang.
-First Change
-second change
-third change
-fourth change
-fifth change
-sixth change
-seventh change
+first change occurs
